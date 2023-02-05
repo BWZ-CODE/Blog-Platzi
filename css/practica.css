@@ -14,12 +14,31 @@ h1
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-input
+.user, .pasword
 {
-    background: solid blanchedalmond; !important
-    width: 12px;
+    background-color: darkorchid;
+    width: 100px;
     height: 15px;
     margin: 2px;
     border-radius: 5px;
     border: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.boton
+{
+    border: 10px black;
+    background-color: hotpink;
+    width: 100px;
+    height: 19px;
+    margin: 2px;
+    border-radius: 5px;
+
+}
+
+.boton:hover
+{
+    cursor: pointer;
+    background-color: rgb(236, 158, 197);
+    border: 2px black;
 }
