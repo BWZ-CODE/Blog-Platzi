@@ -1,4 +1,5 @@
 Bueno, este se hizo para:
 
-1. Probar que haya aprendido lo de la primera clase
-2. Empezar las otras con práctica
+1. Probar que haya aprendido lo de la primera clase.
+2. Empezar las otras con práctica.
+3. Hoy se supone debemos quedar en una buena clase, osea avanzada
