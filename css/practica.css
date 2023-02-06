@@ -67,6 +67,7 @@ h1
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     width: 30%; 
     transition: all 2s;
+    color: red;
 }
 .cabecera:hover
 {
