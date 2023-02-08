@@ -99,3 +99,9 @@ footer
     color: rgb(111, 212, 41);
     text-align: center;
 }
+.imgmedia
+{
+    width: 10%;
+    height: 10%;
+    box-shadow:  -5px 75px 15px -5px rgba(0,0,0,0.1);
+}
