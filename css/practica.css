@@ -92,3 +92,10 @@ ul
     
 
 }
+footer
+{
+    background: darkorchid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(111, 212, 41);
+    text-align: center;
+}
