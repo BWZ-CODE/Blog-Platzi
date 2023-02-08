@@ -69,3 +69,26 @@ h1
     transition: all 2s;
     color: rgb(105, 141, 69);
 }
+
+header
+{
+    background: rgb(162, 75, 219);
+    color:  rgb(111, 212, 41);
+}
+
+header .logo
+{
+    width: 10%;
+    height: 10%;
+    float: top;
+
+}
+
+ul
+{
+    display: flex;
+    margin: 20px;
+    line-height: 30px;
+    
+
+}
